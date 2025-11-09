@@ -1,20 +1,20 @@
-# ITIMA – Information Technology Integration, Management and Administration
+# ITIMA – Innovative Technology for Infrastructure, Management & Automation
 
-**ITIMA** is an Egyptian corporate technology solutions company specializing in integrated IT systems for business management, digital infrastructure, and enterprise administration.
+**ITIMA** is an Egyptian corporate technology solutions company specializing in IT infrastructure, digital transformation, and enterprise management automation.
 
 ---
 
 ## 🚀 Overview
-ITIMA provides end-to-end information technology solutions that connect management, integration, and administration within one efficient ecosystem.  
-The platform and services are designed to help organizations build secure, scalable, and reliable digital foundations.
+ITIMA delivers integrated technology solutions that optimize infrastructure, streamline management, and automate business operations.  
+We empower organizations to build secure, scalable, and future-ready digital ecosystems.
 
 ---
 
 ## 💡 Vision
-To become Egypt’s most trusted provider of integrated information technology solutions that empower organizations to manage, connect, and grow efficiently.
+To become Egypt’s most trusted provider of innovative technology solutions for infrastructure, management, and automation — driving sustainable business efficiency.
 
 ## 🎯 Mission
-Deliver reliable, scalable, and secure IT solutions that integrate management and administration systems across sectors — building digital foundations for sustainable business growth.
+Provide reliable and intelligent IT systems that help organizations integrate operations, enhance productivity, and achieve measurable digital transformation.
 
 ---
 
@@ -49,6 +49,7 @@ Live demo (work in progress): [https://itima.vercel.app](https://itima.vercel.ap
 ---
 
 ## 📁 Repository Structure
+
 /public
 ├── assets/
 └── logo/
