@@ -27,14 +27,6 @@ Provide reliable and intelligent IT systems that help organizations integrate op
 
 ---
 
-## 🎨 Brand Identity
-- **Primary Color:** Deep Blue `#003366`  
-- **Secondary Color:** Sky Blue `#00AEEF`  
-- **Accent:** Silver Gray `#B0B7BC`  
-- **Typography:** Montserrat (Headings), Open Sans (Body)
-
----
-
 ## 🧱 Project Status
 Currently under development.  
 Live demo (work in progress): [https://itima.vercel.app](https://itima.vercel.app)
@@ -50,15 +42,14 @@ Live demo (work in progress): [https://itima.vercel.app](https://itima.vercel.ap
 
 ## 📁 Repository Structure
 
+```text
 /public
 ├── assets/
-│ └── logo/
-│
+│   └── logo/
 /src
 ├── components/
 ├── pages/
 └── styles/
-
 
 ---
 
