@@ -1,4 +1,4 @@
-# ITIMA – Information Technology for Integration, Management and Administration
+# ITIMA – Information Technology Integration, Management and Administration
 
 **ITIMA** is an Egyptian corporate technology solutions company specializing in integrated IT systems for business management, digital infrastructure, and enterprise administration.
 
