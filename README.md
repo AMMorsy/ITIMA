@@ -52,8 +52,8 @@ Live demo (work in progress): [https://itima.vercel.app](https://itima.vercel.ap
 
 /public
 ├── assets/
-└── logo/
-
+│ └── logo/
+│
 /src
 ├── components/
 ├── pages/
