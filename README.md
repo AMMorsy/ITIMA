@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ITIMA – Information Technology for Integration, Management and Administration
 
-## Getting Started
+**ITIMA** is an Egyptian corporate technology solutions company specializing in integrated IT systems for business management, digital infrastructure, and enterprise administration.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Overview
+ITIMA provides end-to-end information technology solutions that connect management, integration, and administration within one efficient ecosystem.  
+The platform and services are designed to help organizations build secure, scalable, and reliable digital foundations.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💡 Vision
+To become Egypt’s most trusted provider of integrated information technology solutions that empower organizations to manage, connect, and grow efficiently.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎯 Mission
+Deliver reliable, scalable, and secure IT solutions that integrate management and administration systems across sectors — building digital foundations for sustainable business growth.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧭 Core Values
+- **Integrity:** Transparency and accountability in every delivery.  
+- **Innovation:** Smart, scalable, and future-ready technology.  
+- **Excellence:** Precision and quality across all operations.  
+- **Commitment:** Long-term partnerships built on trust.  
+- **Integration:** Seamless connectivity across technologies and business processes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎨 Brand Identity
+- **Primary Color:** Deep Blue `#003366`  
+- **Secondary Color:** Sky Blue `#00AEEF`  
+- **Accent:** Silver Gray `#B0B7BC`  
+- **Typography:** Montserrat (Headings), Open Sans (Body)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🧱 Project Status
+Currently under development.  
+Live demo (work in progress): [https://itima.vercel.app](https://itima.vercel.app)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🧰 Tech Stack
+- **Frontend:** Next.js / React  
+- **Styling:** TailwindCSS  
+- **Deployment:** Vercel  
+
+---
+
+## 📁 Repository Structure
+/public
+├── assets/
+└── logo/
+
+/src
+├── components/
+├── pages/
+└── styles/
+
+
+---
+
+## 🧑‍💼 Contact
+**ITIMA Headquarters – Alexandria, Egypt**  
+📧 info@itima.com  
+🌐 [https://itima.vercel.app](https://itima.vercel.app)
+
+---
+
+> © 2025 ITIMA. All rights reserved.
